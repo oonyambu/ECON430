@@ -1,0 +1,411 @@
+"id","chain","state","empl_before","empl_after"
+1,"Burger King","New Jersey",35,44
+2,"Burger King","New Jersey",16,15.5
+3,"KFC","New Jersey",15.5,10.5
+4,"Roy Rogers","New Jersey",19,24
+5,"Roy Rogers","New Jersey",24,29
+6,"Roy Rogers","New Jersey",5,8
+8,"Wendy's","New Jersey",NA,30.5
+9,"Burger King","New Jersey",36,20
+10,"Burger King","New Jersey",29,26.5
+11,"Burger King","New Jersey",29,27
+12,"Burger King","New Jersey",21.25,26.5
+13,"KFC","New Jersey",15.5,10.5
+14,"KFC","New Jersey",16,15.5
+15,"Roy Rogers","New Jersey",19.5,18
+16,"Roy Rogers","New Jersey",21,18.5
+17,"Roy Rogers","New Jersey",14,25.5
+18,"Roy Rogers","New Jersey",30.5,32
+19,"Burger King","New Jersey",23.5,33
+21,"KFC","New Jersey",14,7.5
+22,"Roy Rogers","New Jersey",14.5,12.5
+23,"Burger King","New Jersey",15.5,24
+24,"Burger King","New Jersey",26.5,29
+26,"Burger King","New Jersey",41.5,24
+27,"KFC","New Jersey",13,7.5
+28,"KFC","New Jersey",8,10
+29,"KFC","New Jersey",5.5,9.5
+30,"KFC","New Jersey",10,7.5
+31,"KFC","New Jersey",15,18.5
+32,"Roy Rogers","New Jersey",23.25,17.5
+33,"Roy Rogers","New Jersey",26,16.5
+34,"Roy Rogers","New Jersey",15.5,17.5
+35,"Wendy's","New Jersey",32.25,25
+36,"Wendy's","New Jersey",18,33.5
+37,"Burger King","Pennsylvania",32.5,25.5
+38,"Burger King","New Jersey",30,26
+39,"Burger King","Pennsylvania",19,15.5
+40,"Burger King","Pennsylvania",27,25.5
+41,"Burger King","Pennsylvania",19.5,27
+42,"Burger King","Pennsylvania",24,16
+45,"Burger King","Pennsylvania",18,19
+46,"Burger King","Pennsylvania",40.5,24
+47,"Burger King","Pennsylvania",NA,24.5
+48,"Burger King","Pennsylvania",19,25
+49,"KFC","Pennsylvania",13.75,11.5
+50,"KFC","Pennsylvania",14,17
+51,"KFC","Pennsylvania",10.5,16.5
+56,"Wendy's","Pennsylvania",34,20
+57,"Wendy's","Pennsylvania",38,20
+58,"Wendy's","Pennsylvania",23.5,18
+59,"Wendy's","Pennsylvania",10.5,12
+60,"Wendy's","Pennsylvania",25,25
+61,"Wendy's","Pennsylvania",24,35.5
+62,"Wendy's","Pennsylvania",20.5,NA
+63,"Burger King","New Jersey",NA,24
+64,"Burger King","New Jersey",30.5,22.5
+65,"Burger King","New Jersey",14,NA
+66,"Burger King","New Jersey",27,35
+67,"Burger King","New Jersey",18.5,17.75
+68,"Burger King","New Jersey",38,24.5
+69,"Burger King","New Jersey",16.5,16.5
+70,"Burger King","New Jersey",50,30
+71,"Burger King","New Jersey",20.5,39
+73,"KFC","New Jersey",6.5,17
+75,"KFC","New Jersey",13.5,12.5
+76,"Roy Rogers","New Jersey",28,38.5
+77,"Roy Rogers","New Jersey",35,37
+78,"Roy Rogers","New Jersey",21,18
+79,"Roy Rogers","New Jersey",21.5,20
+80,"Wendy's","New Jersey",NA,21
+81,"Wendy's","New Jersey",34.5,26.5
+82,"Wendy's","New Jersey",18.25,33
+83,"Wendy's","New Jersey",24.5,NA
+84,"Burger King","New Jersey",24,32
+85,"Burger King","New Jersey",20,20.5
+86,"Burger King","New Jersey",20.5,19
+87,"Burger King","New Jersey",NA,20
+88,"Burger King","New Jersey",23.5,26.5
+89,"Burger King","New Jersey",16,24.5
+91,"Burger King","New Jersey",23,19
+92,"Burger King","New Jersey",17,20
+93,"Burger King","New Jersey",20.5,22.5
+94,"KFC","New Jersey",17.5,16
+95,"KFC","New Jersey",23.5,10
+96,"KFC","New Jersey",9.5,12.5
+97,"KFC","New Jersey",10,11
+98,"KFC","New Jersey",14,12.5
+99,"Roy Rogers","New Jersey",85,59
+101,"Roy Rogers","New Jersey",15,19
+102,"Roy Rogers","New Jersey",21.5,15.5
+103,"Wendy's","New Jersey",20.5,NA
+104,"Wendy's","New Jersey",53,19
+105,"Burger King","New Jersey",24,26.5
+106,"Burger King","New Jersey",20.5,17.5
+107,"Burger King","New Jersey",14.5,20.5
+108,"Burger King","New Jersey",25,28
+111,"Roy Rogers","New Jersey",27,30.25
+112,"Wendy's","New Jersey",20,23.5
+113,"Burger King","New Jersey",15,27
+114,"Burger King","New Jersey",22.5,44
+115,"Burger King","New Jersey",36.5,17.5
+116,"Burger King","New Jersey",17.25,31
+118,"Burger King","New Jersey",21.5,31
+119,"Burger King","New Jersey",24.5,28.5
+120,"Burger King","New Jersey",19,19
+122,"Burger King","New Jersey",25,41
+123,"Burger King","New Jersey",15,21.5
+124,"Burger King","New Jersey",16,28
+125,"KFC","New Jersey",19,9.5
+128,"KFC","New Jersey",12.25,13
+129,"Roy Rogers","New Jersey",33,20
+130,"Roy Rogers","New Jersey",22.75,25
+131,"Roy Rogers","New Jersey",31.5,22
+132,"Roy Rogers","New Jersey",35,28
+133,"Roy Rogers","New Jersey",16,16
+134,"Roy Rogers","New Jersey",21,22.75
+135,"Roy Rogers","New Jersey",24,23
+136,"Roy Rogers","New Jersey",26.75,NA
+137,"Roy Rogers","New Jersey",30.5,32
+138,"Roy Rogers","New Jersey",19.25,21.5
+139,"Wendy's","New Jersey",NA,28.5
+140,"Wendy's","New Jersey",23,27.5
+141,"Wendy's","New Jersey",21.5,25.5
+142,"Wendy's","New Jersey",36.5,60.5
+143,"Wendy's","New Jersey",18,NA
+144,"Wendy's","New Jersey",28,25.5
+145,"Burger King","New Jersey",16.5,18
+146,"Burger King","New Jersey",23,20.5
+147,"Burger King","New Jersey",14.75,9
+148,"Burger King","New Jersey",23.5,26.5
+149,"Burger King","New Jersey",14,16
+150,"Burger King","New Jersey",17.25,25
+151,"Burger King","New Jersey",10,0
+152,"Burger King","New Jersey",46.5,23.75
+153,"Burger King","New Jersey",21.5,34.5
+156,"Burger King","New Jersey",18.5,13
+157,"KFC","New Jersey",15.5,18
+158,"KFC","New Jersey",8.5,9
+159,"KFC","New Jersey",14,16.5
+161,"Roy Rogers","New Jersey",24.5,36
+162,"Roy Rogers","New Jersey",23,21
+163,"Roy Rogers","New Jersey",24,21
+164,"Roy Rogers","New Jersey",23,15.5
+165,"Wendy's","New Jersey",28,22.5
+166,"Wendy's","New Jersey",29,21.5
+168,"Burger King","New Jersey",19,20
+169,"Burger King","New Jersey",32.5,27
+170,"Burger King","New Jersey",23,34
+171,"Burger King","New Jersey",21,21.25
+172,"Burger King","New Jersey",17,21.5
+173,"Burger King","New Jersey",36,31
+174,"Burger King","New Jersey",25,33
+176,"Burger King","New Jersey",29.5,37.75
+178,"KFC","New Jersey",22,9
+179,"KFC","New Jersey",11,11
+180,"KFC","New Jersey",13.5,12.75
+181,"KFC","New Jersey",9.5,10.5
+182,"KFC","New Jersey",13.5,10.5
+183,"KFC","New Jersey",18,22
+185,"KFC","New Jersey",9.5,8
+186,"Roy Rogers","New Jersey",24,25
+187,"Roy Rogers","New Jersey",17,16.75
+189,"Roy Rogers","New Jersey",14.5,12.5
+190,"Roy Rogers","New Jersey",30,26
+191,"Wendy's","New Jersey",44,16.5
+192,"Wendy's","New Jersey",29,22.5
+193,"Wendy's","New Jersey",10.5,11.5
+195,"Wendy's","New Jersey",18,23.5
+196,"Wendy's","New Jersey",21.5,18
+197,"Burger King","New Jersey",32,20.5
+198,"Burger King","New Jersey",NA,30
+199,"KFC","New Jersey",9,16.5
+200,"Burger King","New Jersey",33,29
+201,"Burger King","New Jersey",19.5,30
+202,"Burger King","New Jersey",41,22.5
+203,"Burger King","New Jersey",17,24
+204,"Burger King","New Jersey",18.25,21.75
+207,"KFC","New Jersey",17,13.5
+208,"Roy Rogers","New Jersey",32,24
+209,"Roy Rogers","New Jersey",26,28.5
+210,"Wendy's","New Jersey",11.5,10
+211,"Burger King","New Jersey",21,23.5
+212,"Burger King","New Jersey",22.75,30.5
+213,"Burger King","New Jersey",18.5,24.75
+214,"Burger King","New Jersey",20,22.5
+215,"Burger King","New Jersey",18,28
+216,"KFC","New Jersey",10.5,14
+217,"KFC","New Jersey",10.5,9
+218,"KFC","New Jersey",11,9.5
+219,"KFC","New Jersey",10.5,15.5
+220,"KFC","New Jersey",12.5,12
+221,"KFC","New Jersey",18,11.5
+222,"Roy Rogers","New Jersey",17,12.5
+223,"Roy Rogers","New Jersey",15,16
+225,"Roy Rogers","New Jersey",19.5,28.5
+226,"Wendy's","New Jersey",13,15
+228,"Wendy's","New Jersey",20.25,23.5
+229,"Burger King","New Jersey",26,30.5
+230,"Burger King","New Jersey",15.5,26.5
+231,"Burger King","New Jersey",NA,23
+232,"Burger King","New Jersey",24,27
+233,"Burger King","New Jersey",25.5,21.5
+234,"Burger King","New Jersey",8,15
+235,"Burger King","New Jersey",14.5,NA
+236,"Burger King","New Jersey",21,38
+237,"Burger King","New Jersey",21.5,21.5
+238,"KFC","New Jersey",14,37.5
+239,"KFC","New Jersey",20,11.5
+240,"Roy Rogers","New Jersey",35.5,25.5
+241,"Roy Rogers","New Jersey",31.5,NA
+242,"Roy Rogers","New Jersey",33,20
+243,"Roy Rogers","New Jersey",22.5,21
+244,"Roy Rogers","New Jersey",30,28
+245,"Roy Rogers","New Jersey",22,18
+247,"Wendy's","New Jersey",24,24
+248,"Wendy's","New Jersey",22,23
+249,"Burger King","New Jersey",13,19
+250,"KFC","New Jersey",5,7
+253,"Roy Rogers","New Jersey",13.5,14
+254,"Wendy's","New Jersey",28,36
+255,"Wendy's","New Jersey",10,16
+257,"Burger King","New Jersey",28,NA
+258,"Burger King","New Jersey",18,32
+259,"Burger King","New Jersey",23,26.5
+260,"Burger King","New Jersey",24,22
+262,"Burger King","New Jersey",16.5,14.25
+264,"Burger King","New Jersey",7,16.5
+265,"Burger King","New Jersey",11,0
+267,"Burger King","New Jersey",19.5,47.5
+268,"Burger King","New Jersey",23,23.25
+269,"KFC","New Jersey",10,15.5
+271,"KFC","New Jersey",8.5,10.5
+272,"KFC","New Jersey",12.5,12
+273,"KFC","New Jersey",13,10.5
+274,"KFC","New Jersey",9.5,9.5
+275,"KFC","New Jersey",10,7
+276,"KFC","New Jersey",13,15.5
+277,"KFC","New Jersey",12.5,11
+278,"KFC","New Jersey",8,8.5
+282,"Roy Rogers","New Jersey",12,0
+284,"Roy Rogers","New Jersey",20.5,15
+285,"Roy Rogers","New Jersey",18.5,13.5
+286,"Roy Rogers","New Jersey",11.5,12.5
+287,"Roy Rogers","New Jersey",15,12.5
+288,"Roy Rogers","New Jersey",13,12.5
+289,"Roy Rogers","New Jersey",10,10
+290,"Wendy's","New Jersey",17,13.5
+291,"Wendy's","New Jersey",17,16
+292,"Wendy's","New Jersey",20.5,23.5
+294,"Burger King","New Jersey",20.5,20.5
+295,"Burger King","New Jersey",15.5,NA
+296,"Burger King","New Jersey",17,14.5
+297,"Burger King","New Jersey",19.5,34
+299,"KFC","New Jersey",9,14
+301,"KFC","New Jersey",19,6.5
+303,"Roy Rogers","New Jersey",30.5,32.5
+304,"Roy Rogers","New Jersey",23,21.5
+305,"Roy Rogers","New Jersey",13,20
+306,"Roy Rogers","New Jersey",25.5,19
+307,"Roy Rogers","New Jersey",30.25,43.5
+310,"Wendy's","New Jersey",18,17.5
+311,"Wendy's","New Jersey",19,53
+312,"Burger King","New Jersey",10,7
+313,"Burger King","New Jersey",19.5,NA
+314,"Burger King","New Jersey",17,22
+315,"Burger King","New Jersey",16.5,16.5
+316,"Burger King","New Jersey",25.5,22
+317,"Burger King","New Jersey",6,7
+318,"KFC","New Jersey",11.5,14
+319,"KFC","New Jersey",8.5,27
+320,"KFC","New Jersey",11.5,10
+321,"KFC","New Jersey",13,11.5
+322,"Roy Rogers","New Jersey",18.5,18.5
+324,"Roy Rogers","New Jersey",48,46.5
+325,"Roy Rogers","New Jersey",15.5,11.5
+326,"Roy Rogers","New Jersey",45.5,26.5
+330,"Wendy's","New Jersey",15,16
+333,"Burger King","New Jersey",14.25,16
+334,"Burger King","New Jersey",18,13
+335,"Burger King","New Jersey",17,16.5
+336,"Burger King","New Jersey",38,25
+337,"Burger King","New Jersey",24.75,30.5
+339,"Burger King","New Jersey",23,11.5
+340,"Burger King","New Jersey",24,25.5
+341,"KFC","New Jersey",7.5,9.5
+343,"KFC","New Jersey",15,11.5
+346,"KFC","New Jersey",9.25,12
+348,"Roy Rogers","New Jersey",11.25,0
+349,"Roy Rogers","New Jersey",21,14
+350,"Roy Rogers","New Jersey",16.5,17
+351,"Roy Rogers","New Jersey",18.75,24
+352,"Roy Rogers","New Jersey",13.5,NA
+353,"Roy Rogers","New Jersey",21.75,NA
+354,"Wendy's","New Jersey",20.5,15.5
+355,"Wendy's","New Jersey",13.5,13.5
+356,"Wendy's","New Jersey",20.5,18
+357,"Wendy's","New Jersey",17.5,27
+359,"Burger King","New Jersey",15,17
+360,"Burger King","New Jersey",17.5,28
+361,"Burger King","New Jersey",17.5,21.5
+362,"KFC","New Jersey",NA,30
+363,"KFC","New Jersey",15.5,19.5
+364,"KFC","New Jersey",16.5,20
+366,"Roy Rogers","New Jersey",13.5,14.5
+368,"Wendy's","New Jersey",13,14.5
+369,"Burger King","New Jersey",11.5,0
+370,"Burger King","New Jersey",29.0499999523163,31.5
+371,"Burger King","New Jersey",27.5,27
+372,"Burger King","New Jersey",27.5,45
+373,"Burger King","New Jersey",24,29.5
+375,"Burger King","New Jersey",34,16.5
+376,"Burger King","New Jersey",13,11.5
+377,"Burger King","New Jersey",18,20
+378,"Burger King","New Jersey",18,31.5
+379,"Burger King","New Jersey",30,34
+380,"Burger King","New Jersey",20.5,25
+381,"Burger King","New Jersey",24,27.5
+383,"Burger King","New Jersey",10,10
+384,"Burger King","New Jersey",NA,18
+385,"Burger King","New Jersey",26,25
+386,"Burger King","New Jersey",12.5,23
+391,"KFC","New Jersey",19.5,17.5
+393,"KFC","New Jersey",12,23
+396,"Roy Rogers","New Jersey",36,26
+397,"Roy Rogers","New Jersey",21,16.5
+398,"Roy Rogers","New Jersey",24.5,35.5
+399,"Roy Rogers","New Jersey",20,31
+400,"Roy Rogers","New Jersey",26.5,23
+401,"Roy Rogers","New Jersey",15,22.5
+402,"Roy Rogers","New Jersey",19,21.5
+403,"Roy Rogers","New Jersey",NA,25.5
+405,"Roy Rogers","New Jersey",17.5,12
+406,"Wendy's","New Jersey",33.5,32
+407,"KFC","Pennsylvania",11,11
+407,"Wendy's","New Jersey",12,14.5
+409,"Burger King","New Jersey",35,10.5
+410,"Burger King","New Jersey",20.5,20.5
+411,"Burger King","New Jersey",21,25
+412,"KFC","New Jersey",10.5,8.5
+413,"Burger King","New Jersey",23,13
+414,"Burger King","New Jersey",23,21.5
+415,"Burger King","New Jersey",29,23
+417,"Burger King","New Jersey",21,25.5
+418,"Burger King","New Jersey",41.5,21.5
+419,"KFC","New Jersey",12,9.5
+421,"KFC","New Jersey",33,36.5
+422,"KFC","New Jersey",6.5,16
+423,"KFC","New Jersey",9,23.75
+424,"KFC","New Jersey",9.75,17.5
+426,"Roy Rogers","New Jersey",24.5,20.5
+427,"Wendy's","New Jersey",14,20.5
+428,"Wendy's","New Jersey",19.5,25
+430,"Burger King","Pennsylvania",36.5,27
+432,"Burger King","Pennsylvania",52.5,34
+433,"Burger King","Pennsylvania",29,25
+434,"Burger King","Pennsylvania",45,37.5
+435,"Burger King","Pennsylvania",22.75,21
+438,"KFC","Pennsylvania",7.5,9.5
+440,"Wendy's","Pennsylvania",15.5,18
+441,"Wendy's","Pennsylvania",38,18
+443,"Wendy's","Pennsylvania",17.5,19
+444,"Wendy's","Pennsylvania",25,31.5
+445,"Burger King","Pennsylvania",70.5,29
+446,"Burger King","Pennsylvania",NA,23
+448,"Burger King","Pennsylvania",21,24.5
+449,"Burger King","Pennsylvania",15.5,27.5
+450,"Burger King","Pennsylvania",15.5,34.5
+451,"Burger King","Pennsylvania",23.5,36.5
+454,"KFC","Pennsylvania",8.5,14
+455,"KFC","Pennsylvania",11,11
+458,"KFC","Pennsylvania",9,8.5
+459,"Roy Rogers","Pennsylvania",18,15
+462,"Roy Rogers","Pennsylvania",15.5,17.5
+466,"Wendy's","Pennsylvania",20.75,23
+468,"Burger King","Pennsylvania",58,29
+469,"Burger King","Pennsylvania",26.5,30.5
+470,"Burger King","Pennsylvania",28.5,26
+471,"Burger King","Pennsylvania",39,26.5
+472,"Burger King","Pennsylvania",41.5,23.5
+473,"Burger King","Pennsylvania",22.5,35.5
+474,"Burger King","Pennsylvania",13.5,18
+475,"Burger King","Pennsylvania",32,21
+476,"Burger King","Pennsylvania",24,23
+477,"Burger King","Pennsylvania",26,20
+478,"Burger King","Pennsylvania",48.5,27
+481,"KFC","Pennsylvania",16.75,20
+483,"KFC","Pennsylvania",9.5,13.5
+485,"KFC","Pennsylvania",8.5,13
+487,"Roy Rogers","Pennsylvania",15,19
+488,"Roy Rogers","Pennsylvania",29.5,15.5
+489,"Roy Rogers","Pennsylvania",18.5,14.5
+490,"Roy Rogers","Pennsylvania",20.25,14
+491,"Roy Rogers","Pennsylvania",18.5,0
+492,"Roy Rogers","Pennsylvania",13,13.5
+493,"Roy Rogers","Pennsylvania",36,19
+495,"Roy Rogers","Pennsylvania",21,21
+496,"Roy Rogers","Pennsylvania",20.5,18
+497,"Wendy's","Pennsylvania",22.5,NA
+498,"Wendy's","Pennsylvania",28,26.75
+499,"Wendy's","Pennsylvania",19,20.5
+501,"Burger King","Pennsylvania",24.5,43.5
+503,"Burger King","Pennsylvania",18.5,41.25
+506,"KFC","Pennsylvania",8.5,10.5
+509,"Roy Rogers","Pennsylvania",14,13.5
+510,"Roy Rogers","Pennsylvania",23.5,14.25
+511,"Roy Rogers","Pennsylvania",15,12.5
+514,"Roy Rogers","Pennsylvania",18,34
+515,"Roy Rogers","Pennsylvania",19,17.5
+516,"Roy Rogers","Pennsylvania",20.25,10
+521,"Burger King","Pennsylvania",15.5,14
+522,"Burger King","Pennsylvania",21,17.5
